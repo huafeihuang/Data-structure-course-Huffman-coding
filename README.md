@@ -22,11 +22,11 @@
 
 * 读入文件
 
-![读](E:\git_file\Data-structure-course-Huffman-coding\2.png)
+![读](./2.png)
 
 * 编码
 
-![保存](E:\git_file\Data-structure-course-Huffman-coding\3.png)
+![保存](./3.png)
 
 * 译码
 
@@ -34,11 +34,11 @@
 
 * 查看状态
 
-![状态](E:\git_file\Data-structure-course-Huffman-coding\6.png)
+![状态](./6.png)
 
 * 输出哈弗曼树的图
 
-![哈弗曼树](E:\git_file\Data-structure-course-Huffman-coding\5.png)
+![哈弗曼树](./5.png)
 
 ----
 
