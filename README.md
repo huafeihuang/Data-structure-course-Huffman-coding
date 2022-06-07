@@ -1,5 +1,6 @@
 # Data-structure-course-Huffman-coding
-大二上数据结构课设结课作业（哈弗曼编码），开源仅供参考，巨菜。。
+The data structure assignment (Huffman Coding).
+大二上数据结构课设结课作业（哈弗曼编码），开源仅供参考。
 
 
 
